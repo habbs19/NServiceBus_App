@@ -1,4 +1,4 @@
-# NServiceBus_App
+# NServiceBus_Demo
 
 Learn how to implement NServiceBus 
 
